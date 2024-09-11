@@ -1,40 +1,33 @@
-
-
 {
-  "name": "bed-ca2-not-nihao",
+  "name": "singlife-filter-leaderboard",
   "version": "1.0.0",
-  "description": "Web-based game with login functionality",
+  "description": "live leaderboard for singlife tiktok filter challenge",
   "main": "index.js",
   "scripts": {
-    "test": "npm run init_tables && jest --forceExit",
-    "init_tables": "node src/config/createSchema.js && node src/config/initTables.js",
-    "start": "npm run init_tables && node ./index.js",
-    "dev": "nodemon ./index.js"
+    "test": "npm run start",
+    "start": "nodemon ./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ST0503-BED/bed-ca2-not-nihao.git"
+    "url": "git+https://github.com/not-nihao/singlife-filter-leaderboard.git"
   },
   "keywords": [
-    "game",
     "website",
+    "game",
     "project"
   ],
   "author": "Nihal Deb",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ST0503-BED/bed-ca2-not-nihao/issues"
+    "url": "https://github.com/not-nihao/singlife-filter-leaderboard/issues"
   },
-  "homepage": "https://github.com/ST0503-BED/bed-ca2-not-nihao#readme",
+  "homepage": "https://github.com/not-nihao/singlife-filter-leaderboard#readme",
   "dependencies": {
-    "bcrypt": "^5.1.1",
-    "dotenv": "^16.3.1",
-    "express": "^4.18.2",
-    "jest": "^29.7.0",
-    "jsonwebtoken": "^9.0.2",
-    "mysql2": "^3.7.0",
-    "node": "^21.2.0",
-    "nodemon": "^3.0.2",
-    "supertest": "^6.3.3"
+    "dotenv": "^16.4.5",
+    "express": "^4.20.0",
+    "http": "^0.0.1-security",
+    "mysql2": "^3.11.2",
+    "node": "^22.8.0",
+    "nodemon": "^3.1.4"
   }
 }
