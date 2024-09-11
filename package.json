@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/not-nihao/singlife-filter-leaderboard#readme",
   "dependencies": {
+    "@vercel/postgres": "^0.10.0",
     "dotenv": "^16.4.5",
     "express": "^4.20.0",
     "http": "^0.0.1-security",
