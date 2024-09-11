@@ -8,10 +8,10 @@
     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F559%2F1021%2Fpng-transparent-game-show-gatton-library-competition-television-show-youtube-spotlight-miscellaneous-blue-game.png&tbnid=tSNQ1z1NpjZ_jM&vet=12ahUKEwiZkfPSptSDAxVATGwGHZ4AB8YQMygAegQIARBO..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dminute%2BTo%2BWin%2BIt&docid=AlbG3VqZ5Ux6XM&w=920&h=756&q=minute%20to%20win%20it%20logo%20transparent&ved=2ahUKEwiZkfPSptSDAxVATGwGHZ4AB8YQMygAegQIARBO" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Minute To Win It</h3>
+<h3 align="center">Singlife Tiktok Filter Challenge</h3>
 
   <p align="center">
-    A simple web based game where the goal is to score as many points as possible within a minute.
+    Website to view info & instructions about singlife tiktok filter challenge AND live leaderboard
     <br />
     <a href="https://github.com/ST0503-BED/bed-ca2-not-nihao"><strong>Explore the docs »</strong></a>
     <br />
